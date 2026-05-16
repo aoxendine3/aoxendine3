@@ -61,7 +61,7 @@ We believe in uncompromised open-source contribution. When our automated sentrie
 
 If you are an active open-source maintainer or early adopter onboarding to our full Level-4 sentry suite, we waive our $500 enterprise setup fee and offer an exclusive **50% discount on your first quarter pilot** ($1,000 total).
 
-📧 **Direct Engineering Contact**: [Connect with Anthony via LinkedIn / Email](mailto:aoxendine3@gmail.com) | [XORAS Institutional Portal](https://aoxendine3.github.io/)
+📧 **Direct Engineering Contact**: [Connect with Anthony via LinkedIn / Email](mailto:arvant.apex@gmail.com) | [XORAS Institutional Portal](https://aoxendine3.github.io/)
 
 ---
 *Secured by XORAS C-Vector Core. All telemetry verified.*
