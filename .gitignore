@@ -1,0 +1,19 @@
+# XORAS // Institutional Security Lock (.gitignore)
+node_modules/
+.env
+.env.local
+.env.*.local
+*.enc
+*.key
+*.pem
+*.sqlite
+*.sqlite3
+*.db
+*.log
+.DS_Store
+dist/
+build/
+out/
+.next/
+coverage/
+scratch/
