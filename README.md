@@ -39,7 +39,7 @@ npm run revops
 *   **Storage**: Air-Gapped B-Tree SQLite (`aether_brain.sqlite`) + AES-256 Encrypted Backups (`aether_brain.enc`)
 
 ### 4. [`integrity-sentry-core`](https://github.com/aoxendine3/integrity-sentry-core)
-*The Obsidian Gold Command Center.* The high-fidelity visual UI that pulls live relational metrics directly from our SQLite memory grid to give executive oversight across all 30 staged enterprise deals.
+*The Obsidian Gold Command Center.* The high-fidelity visual UI that pulls live relational metrics directly from our SQLite memory grid to give executive oversight across all 50 enterprise candidate deals.
 
 ---
 
@@ -49,7 +49,7 @@ npm run revops
 ```text
 === EXECUTIVE REVOPS AGGREGATE ===
 📌 Staged Enterprise Leads in Reserve : 0 Targets (Queue Cleared)
-⏳ Active PR Submissions in Review   : 18 Targets (ByteDance, Shopee, Grab, Tencent, Alibaba, NetEase, Baidu, Meituan, JD.com, Cubosapiens, Reframe, Gabs, Axon, Better-Auth, _R1, Gravix)
+⏳ Active PR Submissions in Review   : 48 Targets (Stripe, Supabase, Vercel, Sentry, Tailwind, React, Vue, Angular, Svelte, ByteDance, Shopee, Grab, Tencent, Alibaba, NetEase, Baidu, Meituan, JD.com, Cubosapiens, etc.)
 🏆 Commercial Deals Closed / Won     : 2 Deals ($4,000 Total Value - namuh-eng/exponential PR #8, sea-group/sea-lion-sentry PR #24)
 ==================================
 ```
