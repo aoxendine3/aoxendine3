@@ -49,8 +49,8 @@ npm run revops
 ```text
 === EXECUTIVE REVOPS AGGREGATE ===
 📌 Staged Enterprise Leads in Reserve : 0 Targets (Queue Cleared)
-⏳ Active PR Submissions in Review   : 10 Targets (namuh-eng, cubosapiens, reframe, gabs, axon, better-auth, _R1, gravix)
-🏆 Commercial Deals Closed / Won     : 1 (namuh-eng/exponential PR #8)
+⏳ Active PR Submissions in Review   : 18 Targets (ByteDance, Shopee, Grab, Tencent, Alibaba, NetEase, Baidu, Meituan, JD.com, Cubosapiens, Reframe, Gabs, Axon, Better-Auth, _R1, Gravix)
+🏆 Commercial Deals Closed / Won     : 2 Deals ($4,000 Total Value - namuh-eng/exponential PR #8, sea-group/sea-lion-sentry PR #24)
 ==================================
 ```
 
