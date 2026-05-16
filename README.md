@@ -25,7 +25,7 @@ npm run revops
 
 ## 🛠️ Foundation Core Repositories (The Governance Grid)
 
-### 1. [`env-integrity-sentry`](https://github.com/aoxendine3/env-integrity-sentry)
+### 1. [`xoras-sentry`](https://github.com/aoxendine3/xoras-sentry)
 *The Next.js 15 & AST Secret Sentry.* Autonomously traps synchronous dynamic parameter access (`params.slug` Promises) and `.env` orphans during pre-commit hooks.
 *   **Status**: Live in production (v3.0 AST Hardened)
 *   **Security Lock**: `SHA-256` Cryptographic AST Verification
@@ -34,7 +34,7 @@ npm run revops
 *The Production Route Finality Sentry.* Scans compiled `.next/server` bundles against source AST trees to eliminate 500 runtime panics and Docker standalone configuration drift.
 *   **Status**: Secured via `AUDIT_FINALITY.jws` token
 
-### 3. [`xoras-core`](https://github.com/aoxendine3/xoras-core)
+### 3. [`xoras`](https://github.com/aoxendine3/xoras)
 *The Master Outbound Engine.* Houses the complete 5-stage autonomous DevRel pipeline (`pr_sniper`, `queue_prioritizer`, `pr_monitor`, `pr_closer`, and `ledger_inspector`).
 *   **Storage**: Air-Gapped B-Tree SQLite (`aether_brain.sqlite`) + AES-256 Encrypted Backups (`aether_brain.enc`)
 
@@ -48,8 +48,8 @@ npm run revops
 
 ```text
 === EXECUTIVE REVOPS AGGREGATE ===
-📌 Staged Enterprise Leads in Reserve : 30 Targets (Tier 1 & Tier 2)
-⏳ Active PR Submissions in Review   : 3 (Axon-Logic #14, Better Auth #412, Gravix #19)
+📌 Staged Enterprise Leads in Reserve : 10 Targets (Tier 1 & Tier 2)
+⏳ Active PR Submissions in Review   : 8 (namuh-eng, cubosapiens, reframe, gabs, axon, better-auth)
 🏆 Commercial Deals Closed / Won     : 1 (namuh-eng/exponential PR #8)
 ==================================
 ```
