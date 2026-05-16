@@ -48,8 +48,8 @@ npm run revops
 
 ```text
 === EXECUTIVE REVOPS AGGREGATE ===
-📌 Staged Enterprise Leads in Reserve : 10 Targets (Tier 1 & Tier 2)
-⏳ Active PR Submissions in Review   : 8 (namuh-eng, cubosapiens, reframe, gabs, axon, better-auth)
+📌 Staged Enterprise Leads in Reserve : 0 Targets (Queue Cleared)
+⏳ Active PR Submissions in Review   : 10 Targets (namuh-eng, cubosapiens, reframe, gabs, axon, better-auth, _R1, gravix)
 🏆 Commercial Deals Closed / Won     : 1 (namuh-eng/exponential PR #8)
 ==================================
 ```
